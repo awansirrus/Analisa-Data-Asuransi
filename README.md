@@ -16,9 +16,9 @@ Analisa deskriptif
 
 Analisa Variabel Diskrit
 1. Gender mana yang memiliki tagihan paling tinggi?
-2. Distribusi peluang tagihan di tiap-tiap region
-3. Apakah setiap region memiliki proporsi data banyak orang yang sama?
-4. Mana yang lebih tinggi proporsi perokok atau non perokok?
+2. Apakah setiap region memiliki proporsi data banyak orang yang sama?
+3. Mana yang lebih tinggi proporsi perokok atau non perokok?
+4. Bagaimana proporsi perokok/bukan perokok berdasarkan daerah?
 5. Berapa peluang seseorang tersebut adalah perempuan diketahui dia adalah perokok?
 
 Analisa Variabel Kontinu
