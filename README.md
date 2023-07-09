@@ -33,8 +33,9 @@ diatas 16.7k, atau
 b. Seseorang non perokok dengan BMI diatas 25 mendapatkan tagihan kesehatan
 diatas 16.7k
 
-Analisa Korelasi Variabel
+Analisa Korelasi Variabel dan
 Pengujian Hipotesis
 1. Tagihan kesehatan perokok lebih tinggi daripada tagihan kesehatan non perokok
-2. Proporsi perokok laki laki lebih besar dari perempuan
-3. Variansi tagihan kesehatan perokok dan non perokok sama
+2. Variansi tagihan kesehatan perokok dan non perokok sama
+3. Proporsi perokok laki laki lebih besar dari perempuan
+
