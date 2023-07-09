@@ -1,5 +1,5 @@
 # Analisa-Data-Asuransi
-Analisa Data Asuransi Probability Project Pacmann
+Final Project Probability Pacmann
 
 Objektif
 1. Mengetahui statistik deskriptif dari dataset ini, seperti rata-rata tagihan atau bmi
